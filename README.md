@@ -20,7 +20,7 @@ asd.download_from_game()
 In addition you need change some values in download_cfg.py
 I hidden my ID to not cause any trouble :P
 You can easily get them by using BURP or something.
-```json
+```python
 headers = {
     "Host": "gql.twitch.tv",
     "Sec-Ch-Ua": '"Not A(Brand";v="24", "Chromium";v="110"',
